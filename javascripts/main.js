@@ -1,5 +1,5 @@
 "use strict";
 
-console.log("I'm here!!");
+require("./badges");
+require("./dom");
 
-module.exports = {};
